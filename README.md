@@ -1,4 +1,4 @@
 # Security-Code-Create
 
- Burada <h1>GüVENLİK KODU OLUŞTURMA</h1> çalışması yapılmıştır.
+ <h1>Here, a security code creation study was made with javascript.<i>(Burada javascript ile güvenlik kodu oluşturma çalışması yapılmıştır)</i></h1>
  
